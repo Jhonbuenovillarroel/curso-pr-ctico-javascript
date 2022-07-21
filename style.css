@@ -1,0 +1,11 @@
+.newClass {
+   display: inline-block;
+   padding: 20px 90px;
+   background-color: rgb(166, 26, 26);
+   color: white;
+   border-radius: 8px;
+}
+
+.nuevo {
+   padding: 20px 40px;
+}
